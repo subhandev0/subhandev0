@@ -15,7 +15,8 @@
 <pre>
 01 — co-founder @ launchit, a web agency. client work + agency builds.
 02 — frontend's the strong hand: React, TypeScript, Tailwind, GSAP, Framer Motion.
-03 — building backend muscle now: Express/Hono, Postgres/SQLite, Node/MongoDB , Prisma/Drizzle, JWT.
+03 — building backend muscle now: Express/Hono, Postgres/SQLite, Node/MongoDB, Prisma/Drizzle, JWT.
+
 </pre>
 
 <br>
@@ -34,7 +35,7 @@
 
 ## stack, rated honestly
 
-no "expert" nonsense — this is where I actually stand.
+this is where I stand.
 
 | tech | rating |
 |---|---|
@@ -54,10 +55,10 @@ no "expert" nonsense — this is where I actually stand.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=subhanali07&show_icons=true&bg_color=F5F1E8&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanali07&background=F5F1E8&border=1B1B1B&ring=FF9F5A&fire=FF9F5A&currStreakLabel=FF9F5A&sideNums=1B1B1B&sideLabels=1B1B1B&dates=1B1B1B&hide_border=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=subhanali07&show_icons=true&bg_color=F5F1E8&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B&hide_border=false&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=subhanali07&background=F5F1E8&border=1B1B1B&ring=FF9F5A&fire=FF9F5A&currStreakLabel=FF9F5A&sideNums=1B1B1B&sideLabels=1B1B1B&dates=1B1B1B&hide_border=false" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanali07&layout=compact&bg_color=F5F1E8&title_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B&hide_border=false&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=subhanali07&layout=compact&bg_color=F5F1E8&title_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -65,7 +66,7 @@ no "expert" nonsense — this is where I actually stand.
 <summary><b>trophy case — click it</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subhanali07&theme=flat&no-frame=true&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_radius=8&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=subhanali07&theme=flat&no-frame=true&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_radius=8&margin-w=8&column=7" />
 </div>
 </details>
 
@@ -84,29 +85,13 @@ no "expert" nonsense — this is where I actually stand.
 <img src="https://raw.githubusercontent.com/subhanali07/subhanali07/output/github-contribution-grid-snake.svg" width="100%"/>
 -->
 
+
+
 <br>
 
-## pinned
-
 <div align="center">
 
-<a href="https://github.com/subhanali07/launchit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhanali07&repo=launchit&bg_color=F5F1E8&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B" />
-</a>
-<a href="https://github.com/subhanali07/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhanali07&repo=portfolio&bg_color=F5F1E8&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B" />
-</a>
-<a href="https://github.com/subhanali07/Whiteboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhanali07&repo=Whiteboard&bg_color=F5F1E8&title_color=FF9F5A&icon_color=FF9F5A&text_color=1B1B1B&border_color=1B1B1B" />
-</a>
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=subhanali07&label=views&color=F5F1E8&style=for-the-badge" />
+<img src="https://hits.sh/github.com/subhanali07.svg?style=for-the-badge&label=views&color=1B1B1B" />
 
 </div>
 
